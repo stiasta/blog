@@ -21,18 +21,18 @@ After the planning one of my team mates asked, "Why are we estimating both story
 After we concluded by only using story points, we had to quickly reestimate the tasks. I read a blog post a couple of months ago that explained [The Silent Grouping Technique](http://systemagility.com/2011/05/22/using-silent-grouping-to-size-user-stories/). This activity was quite fast and we estimated 30 tasks in around 45 minutes.
 
 This is how we completed the activity:
-1. Print out all the tasks and make small flash cards with each task.
-2. Each person takes one task and places it on a whiteboard without saying anything.
+- Print out all the tasks and make small flash cards with each task.
+- Each person takes one task and places it on a whiteboard without saying anything.
   - The first person places a task in the middle.
   - Then each person places a task either to the left or to the right of the tasks on the whiteboard. Placing it to the right means that it is bigger, and placing it to the left means that it is smaller.
   - Continue doing this until all tasks are placed out.
-3. Then each person goes up, in turn, and moves one task that he/she thinks is placed wrong.
+- Then each person goes up, in turn, and moves one task that he/she thinks is placed wrong.
   - This is also done without saying anything.
   - Continue until no more tasks can be moved.
   - If the same tasks are continually moving back and forth, you should stop.
-4. Agree on estimation sizes
+- Agree on estimation sizes
   - This can be t-shirt sizes, fibonacci or animal sizes (we chose fibonacci because it shows uncertainty when the tasks are larger).
-5. Then give each task a size from left to right.
+- Then give each task a size from left to right.
   - It is important to continually asking yourselves, is this task twice or three times as big?
 
 The estimated tasks were placed on a cardboard so that it could be used as a _answer sheet_ when we want to estimate new tasks.
