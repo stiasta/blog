@@ -15,7 +15,7 @@ After the planning one of my team mates asked, "Why are we estimating both story
 - Story points can become more accurate and stabilize over time.
 - The velocity during a sprint can be pin-pointed.
 - It can show uncertainty in the tasks (by using fibonacci).
-- The person that executes and completes the task does not matter since the task based on complexity and relative to other tasks.
+- The person that executes and completes the task does not matter since the estimate is based on complexity and relative to other tasks.
 	+ Instead of how much time one person needs to finish the tasks, it will show how many story points the team will complete in a given time.
 
 After we concluded by only using story point, we had to quickly reestimate the tasks. I read a blog post a couple of months ago that explained [The Silent Grouping Technique](http://systemagility.com/2011/05/22/using-silent-grouping-to-size-user-stories/). This activity was quite fast and we estimated 30 tasks in around 45 minutes.
