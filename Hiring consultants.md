@@ -16,3 +16,6 @@ When the team and the consultant works on tasks the consultant might not be able
 Is there anything good about hiring a consultant for a specific project? The company might save some expenses on the consultant not having to learn other systems and domains. But, does this make up the cost of having a more difficult team dynamic? I'm guessing there might be a crossing point of where the cost of having a broken team dynamic might supersede the cost of learning new systems and domains. But I have not been able to find any statistics on this and therefore I have to point out that this is a theory.
 
 ##Scenario 2: Budget for team
+The company has a pot for hiring a consultant to the team itself, and writes a contract that allows the consultant to work on whatever the team is working on. This creates a different team dynamic. Compared to the other scenario, the consultant will not have to leave when planning, and can pair together with any of the team members.
+
+This team dynamic will reinforce the team, and allows them to self organize. But, there is an extra cost of learning the different systems and domains.
