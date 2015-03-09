@@ -19,3 +19,7 @@ Is there anything good about hiring a consultant for a specific project? The com
 The company has a pot for hiring a consultant to the team itself, and writes a contract that allows the consultant to work on whatever the team is working on. This creates a different team dynamic. Compared to the other scenario, the consultant will not have to leave when planning, and can pair together with any of the team members.
 
 This team dynamic will reinforce the team, and allows them to self organize. But, there is an extra cost of learning the different systems and domains.
+
+
+### Burde kanskje ha diskutert noe greier her?
+### evt summert opp de forskjellige budsjettene i en tabell eller liste.
