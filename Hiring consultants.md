@@ -9,5 +9,10 @@ Let's say that the company has set a side pot for each project in which can be u
 
 The company and the consultant agrees on a contract that says that the consultant has to work on the project in question. The consultant joins the team that administers the project and starts working.  
 
-How would the team dynamic react to hiring a consultant that must work on one project, while they have to work that one and multiple others?
+How would the team dynamic react to hiring a consultant that must work on one project, while they have to work that one and multiple others? Imagine sitting in a planning or a backlog refinement meeting and you disscuss tehe project that needs focus. When the tasks are ready the team must move on and plan tasks for the other projects. Since the consultant is not allowed to spend any time on other projects he/she is forced to leave the meeting. Both the team and the consultant might feel ackward about making he/she leave. The consultant might feel left out and the team might feel like bullies.
+
+When the team and the consultant works on tasks the consultant might not be able to pair with the rest of the team, unless the team happen to work on and have time to work on the same project. In this case the consultant might feel lonely, and the team might have a bad conscience about that they are not able to pair up with him/her.
+
+Is there anything good about hiring a consultant for a specific project? The company might save some expenses on the consultant not having to learn other systems and domains. But, does this make up the cost of having a more difficult team dynamic? I'm guessing there might be a crossing point of where the cost of having a broken team dynamic might supersede the cost of learning new systems and domains. But I have not been able to find any statistics on this and therefore I have to point out that this is a theory.
+
 ##Scenario 2: Budget for team
