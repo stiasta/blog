@@ -1,13 +1,11 @@
 How should you properly integrate hired consultants?
 ==========================
-Lets say your team is swamped with work and you can't finish the tasks faster than they are pouring in. There is no way to pay attention to all the projects you have. The company you work for can't afford to hire more people. Nevertheless, they can hire a consultant for around a year. 
+Lets say your team is swamped with work and you can't finish the tasks faster than they are pouring in. There is no way to pay attention to all the projects you have. The company you work for have difficulties in finding new people or do not have it in their budged. Nevertheless, they start looking at hiring a consultant to help out with the work load since they have set a side a budget for just that. The company have have concluded that one specific project needs focus and goes through with contract discussions.
 
 I will describe two scenarios of how a consultant can be included into a team and how this might affect them. The assumption is that in both scenarios the team has multiple projects/customers to administer.
 
 ##Scenario 1: Budget for each project
-Let's say that the company has set a side pot for each project in which can be used to different things. One of these things can be to hire a consultant. The company notices that one specific projects needs more focus and decides to go through with it. They hire a consultant. 
-
-The company and the consultant agrees on a contract that says that the consultant has to work on the project in question. The consultant joins the team that administers the project and starts working.  
+The company and the consultant agrees on a contract which says that the consultant has to work on the project that needs the most focus. The consultant joins the team that administers the project and starts working.  
 
 How would the team dynamic react to hiring a consultant that must work on one project, while they have to work that one and multiple others? Imagine sitting in a planning or a backlog refinement meeting and you disscuss tehe project that needs focus. When the tasks are ready the team must move on and plan tasks for the other projects. Since the consultant is not allowed to spend any time on other projects he/she is forced to leave the meeting. Both the team and the consultant might feel ackward about making he/she leave. The consultant might feel left out and the team might feel like bullies.
 
